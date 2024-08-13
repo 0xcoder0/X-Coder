@@ -1,7 +1,7 @@
-[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZyM2trNnQ1MzRxank4aHpmaDNkNWNha3lmam1sc2l2ODh6d285byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp)](https://rishavchanda.io)
+[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2wyamZwbzA4OHFtMWZxZjhwYWQ0b2x4ZmlvMHJtbmJpcGQxYm54YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.webp)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Anin Ahammed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2wyamZwbzA4OHFtMWZxZjhwYWQ0b2x4ZmlvMHJtbmJpcGQxYm54YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.webp">
+<img align="right" alt="Coding" width="700" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZyM2trNnQ1MzRxank4aHpmaDNkNWNha3lmam1sc2l2ODh6d285byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xcoder0&label=Profile%20views&color=0e75b6&style=flat" alt="0xcoder0" /> </p>
 
